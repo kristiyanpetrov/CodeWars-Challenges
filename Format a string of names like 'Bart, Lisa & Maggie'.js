@@ -35,5 +35,4 @@ function list(names) {
         str += str !== '' ? ' & ' + last.name : last.name;
     }
     return str;
-
 }
